@@ -18,7 +18,7 @@ public class Commui3 extends MIDlet implements CommandListener{
     private Command back=new Command ("Back",Command.BACK,0);
     private Command help=new Command ("Help",Command.HELP,0);
     private TextBox t;
-    
+    //....this midlet class
     public Commui3()
     {
         dis=Display.getDisplay(this);
